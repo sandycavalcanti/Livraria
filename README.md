@@ -5,4 +5,4 @@ Este sistema foi criado com o intuito de praticar conexão PHP com banco de dado
 
 --- 
 
-Sistema ainda em desenvolvimento
+Sistema ainda em desenvolvimento...
